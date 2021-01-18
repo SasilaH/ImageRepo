@@ -4,7 +4,7 @@
 <img src="./github/screenshot.png">
 
 ### Feature List
-- Upload images to local reposiotry
+- Upload images to local repository
 - Delete previously updated images (on backend only)
 - Images are are also stored in PostgreSQL database.
 
