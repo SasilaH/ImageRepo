@@ -1,7 +1,7 @@
 # ImageRepo 
-## 2021 Shopify Backend Challenge using the PERN(PostgreSQL, Express, React and Node)
+## 2021 Shopify Backend Challenge using the PERN(PostgreSQL, Express, React and Node) Stack
 
-:::image type="content" source="github/screenshot.png" alt-text="screenshot":::
+<img src="./github/screenshot.png">
 
 ### Feature List
 - Upload images to local reposiotry
