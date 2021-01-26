@@ -1,5 +1,5 @@
 # ImageRepo 
-## 2021 Shopify Backend Challenge using the PERN(PostgreSQL, Express, React and Node) Stack
+## Local Image Repository using the PERN(PostgreSQL, Express, React and Node) Stack
 
 <img src="./github/screenshot.png">
 
